@@ -1,3 +1,10 @@
-shapenet*
+shape_net*
 3d-ddpm*
 3d-ddim*
+.ipynb_checkpoints/
+.vscode/
+.data/
+.results/
+temp/
+wandb/
+slurm*
